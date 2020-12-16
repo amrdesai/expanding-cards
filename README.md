@@ -1,6 +1,6 @@
 # expanding-cards
 
-[View Page](https://amrdesai.github.io/expanding-cards/)
+## [View Page](https://amrdesai.github.io/expanding-cards/)
 
 ### About: 
 - Project Built using HTML, CSS, JavaScript 
